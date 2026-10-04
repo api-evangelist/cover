@@ -53,7 +53,7 @@ tags:
 - Accessory Dwelling Units
 - Homebuilding
 - Manufacturing
-- Real-Estate
+- Real Estate
 tags_raw:
 - Company
 - Construction Technology
@@ -62,6 +62,7 @@ tags_raw:
 - Homebuilding
 - Manufacturing
 - Real Estate
+- Real-Estate
 common:
 - type: DomainSecurity
   url: security/cover-domain-security.yml
