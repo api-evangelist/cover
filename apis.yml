@@ -45,7 +45,7 @@ x-legal-name: Cover Technologies Inc.
 x-industry: construction-technology
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-06'
 tags:
 - Company
 - Construction Technology
@@ -64,6 +64,8 @@ tags_raw:
 - Real Estate
 - Real-Estate
 common:
+- url: https://buildcover.com/news/
+  type: Blog
 - type: DomainSecurity
   url: security/cover-domain-security.yml
 - type: Website
